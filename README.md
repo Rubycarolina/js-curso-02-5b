@@ -1,7 +1,8 @@
 
  # Lab 3: # Eblazando mi proyecto con GitHub:
 *.md MakDown
-
+Estudiante Remote Ropo Link: https://github.com/Rubycarolina/js-curso-02-5b.git
+ ## TODO-LIST
 *[x] Crear un repositorio en GigHub - Nombre del repo = js-curso-02-5tob.
 *[x] Cambiar el nombre de mi rama local master -> main.
 *[x] Agregar cambios a la sona de preparacion con el comando **git add .**
