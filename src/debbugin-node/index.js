@@ -4,12 +4,12 @@
 const ordenaBurbuja = (lista) => {
 
 
-    let longitudlista, indexOrder, indexhange, auxChange;
+    let longitudlista, indexOrder, indexChange, auxChange;
     longitudlista =lista.length;
 
     // console.info(longitudlista); // Mostramos por consola la cantidad de elementos en una lista
      
-    for (indexOrder = 1; indexOrder <longitudlista; - indexOrder++) {
+    for (indexOrder = 1; indexOrder <longitudlista; indexOrder++) {
         //For animado.
         for ( indexChange = 0; indexChange < ( longitudlista - indexOrder); indexChange++) {
             // Intercambiamos los valores si el anterior es mayor al siguiente.
@@ -26,7 +26,7 @@ const ordenaBurbuja = (lista) => {
     return lista;
 
 }
-   let listaDesordenada = [6, 5, 3, 1, 8,7, 2,4];
+   let listaDesordenada = [6, 5, 3 ];
     console.warn(listaDesordenada); //Mostramos, por consola, la lista desordenada
     
     const listaOrdenada = ordenaBurbuja( listaDesordenada);
