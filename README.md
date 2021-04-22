@@ -10,3 +10,23 @@ Estudiante Remote Ropo Link: https://github.com/Rubycarolina/js-curso-02-5b.git
 *[x] Agregar mi repositorio remoto a mi repositorio local usando el comando **git remoto add origin url_remote**
 *[x] Subir mis cambios al remoto usando **git push origin main**
 *[x] Comprobar que mi remoto tenga los ultimos cagit push -u origin mainmbios adregados.
+
+
+
+### lab 8.4 Trabajando con opciones de Yargs.
+*[ ] Empezamos a trabajar con **options.js**
+* [ ] Creamos los objetos para nuestro comandos:
+* descrption
+* title
+* completed
+* erased
+* [ ] Creamos las opciones para nuestros comandos:
+* opcionsCreate
+* optionsUpdate
+* optionsErased
+* [ ] Exportamos nuestras opciones 
+* [ ] Hacemos **git add .**
+* [ ] **git commit -am " Configura argvs con opciones para los comandos"**
+* [ ] Hacemos **git push**
+
+
