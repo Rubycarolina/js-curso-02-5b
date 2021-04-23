@@ -29,4 +29,12 @@ Estudiante Remote Ropo Link: https://github.com/Rubycarolina/js-curso-02-5b.git
 * [ ] **git commit -am " Configura argvs con opciones para los comandos"**
 * [ ] Hacemos **git push**
 
+### Lab 8.5 Tabajamos en funciones para los tasks o tarea.
+[] Empesamos a trabajar con tasks.js
+[] Creamos funciones para trabajar los tasks:*CreateTask*updateTaks*eraseTask
+[] Exportamos nuestras funciones.
+[] Hacemos git add .
+[] Hacemos git commit -am"Configura arvgs con opciones para los comandos"
+[] Hacemos git push
+
 
